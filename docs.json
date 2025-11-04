@@ -19,6 +19,14 @@
               }
             ]
   },
+        "languages": [
+        {
+          "language": "zh-CN"
+        },
+        {
+          "language": "en-US"
+        }
+      ],
   "logo": {
     "light": "https://copilot.tcl.com/agi-ai/svg/TCL.4395f4bb.svg",
     "dark": "https://copilot.tcl.com/agi-ai/svg/TCL.4395f4bb.svg"
