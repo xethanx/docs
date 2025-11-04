@@ -30,10 +30,6 @@
     "navbar": {
     "links": [
       {
-        "label": "邮件反馈",
-        "href": "mailto:hi@mintlify.com"
-      },
-      {
         "label": "访问AI助手",
         "href": "https://copilot.tcl.com"
       }
