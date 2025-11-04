@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "maple",
   "name": "AI助手",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "https://chatbi.tcl.com/favicon.ico",
+  "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
         {
