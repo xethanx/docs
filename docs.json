@@ -27,13 +27,12 @@
         "language": "en-US"
       }
   ],
-    "navbar": {
-    "links": [
-      {
-        "label": "访问AI助手",
-        "href": "https://copilot.tcl.com"
-      }
-    ]
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "打开AI助手",
+      "href": "https://copilot.tcl.com"
+    }
   },
   "logo": {
     "light": "https://copilot.tcl.com/agi-ai/svg/TCL.4395f4bb.svg",
