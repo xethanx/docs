@@ -8,8 +8,8 @@
     "dark": "#15803D"
   },
   "typography": {
-            "googleFonts": false
-          },
+    "googleFonts": false
+  },
   "favicon": "https://chatbi.tcl.com/favicon.ico",
   "navigation": {
     "groups": [
