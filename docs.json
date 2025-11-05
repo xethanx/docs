@@ -11,6 +11,12 @@
     "googleFonts": false
   },
   "favicon": "https://chatbi.tcl.com/favicon.ico",
+  "fonts": {
+    "family": "PingFang",
+    "source": "https://fontsapi.zeoseven.com/385/main/e6ccab76ffd4a46b.woff2",
+    "format": "woff2",
+    "weight": 400
+  },
   "navigation": {
     "groups": [
         {
