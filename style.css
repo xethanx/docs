@@ -12,7 +12,7 @@ img + img {
 }
 
 /* 让主内容区域占据全宽 */
-main.content {
+#content-area {
   margin-left: 0 !important;
   max-width: 100% !important;
 }
