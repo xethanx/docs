@@ -7,7 +7,7 @@ img + img {
 }
 
 /* 隐藏左侧侧边栏 */
-aside.sidebar {
+#sidebar {
   display: none !important;
 }
 
