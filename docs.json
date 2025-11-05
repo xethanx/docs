@@ -16,8 +16,7 @@
         {
           "group": "AI助手操作手册",
           "pages": [
-            "ai-agents/index",
-            "ai-agents/market"
+            "ai-agents/index"
           ]
         }
       ]
