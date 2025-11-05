@@ -11,7 +11,7 @@
   "navigation": {
     "groups": [
         {
-          "group": "AI助手操作指南",
+          "group": "AI助手操作手册",
           "pages": [
             "ai-agents/index",
             "ai-agents/market"
