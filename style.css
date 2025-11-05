@@ -5,3 +5,14 @@ img {
 img + img {
     margin-top: 0.5rem;
 }
+
+/* 隐藏左侧侧边栏 */
+aside.sidebar {
+  display: none !important;
+}
+
+/* 让主内容区域占据全宽 */
+main.content {
+  margin-left: 0 !important;
+  max-width: 100% !important;
+}
