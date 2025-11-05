@@ -16,3 +16,8 @@ img + img {
   margin-left: 0 !important;
   max-width: 100% !important;
 }
+
+/* 隐藏搜索输入框 */
+#search-bar-entry {
+  display: none !important;
+}
